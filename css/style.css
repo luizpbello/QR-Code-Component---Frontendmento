@@ -61,6 +61,7 @@
 .white-box p:first-child {
   font-size: var(--main-font);
   font-weight: 700;
+  color: var(--dark-blue);
 }
 
 .white-box p:last-child {
